@@ -1,4 +1,4 @@
-# Flix
+# Flix.
 
 # Project 1 - *Name of App Here*
 
