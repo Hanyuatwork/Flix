@@ -36,7 +36,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://github.com/Hanyuatwork/Flix/blob/master/Flix%2011.44.58%20PM.gif
+<img src='https://github.com/Hanyuatwork/Flix/blob/master/Flix%2011.44.58%20PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
