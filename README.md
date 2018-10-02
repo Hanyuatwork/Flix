@@ -1,10 +1,10 @@
-# Flix.
 
-# Project 1 - *Name of App Here*
+
+# Project 1 - Flix
 
 **Flix** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
 ## User Stories
 
